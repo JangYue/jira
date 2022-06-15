@@ -1,0 +1,10 @@
+html {
+  /**
+    浏览器默认是16px;
+    16*62.5% = 10px;
+*/
+  font-size: 62.5%;
+}
+html body #root .APP {
+  min-height: 100vh;
+}
